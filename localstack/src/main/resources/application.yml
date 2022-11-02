@@ -1,0 +1,6 @@
+aws:
+  queue:
+    endpoint: http://localhost:4566
+    name: SQS_TESTE
+  region:
+    static: us-east-1

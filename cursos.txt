@@ -1,0 +1,714 @@
+
+Agilidade: promovendo a transformação ágil
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon Cloud Front e Route53: Distribua os seus arquivos e crie seu próprio domínio
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon CloudWatch: visibilidade completa das aplicações e serviços na nuvem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon ECS: gerencie Docker na nuvem da AWS
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon Elastic Beanstalk Parte 1: container Docker
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon Lambda: executando código sem servidor
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon Lightsail: descomplicando a nuvem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon S3: Manipule e armazene objetos na nuvem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Amazon VPC: provisione uma nuvem privada
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular parte 1: produtividade e organização com framework SPA
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular parte 2: Autenticação, Forms e lazy loading
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular parte 3: upload, build e novos componentes
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular parte 4: lapidando o projeto
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular: boas práticas em arquiteturas e formulários
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular: controle o fluxo de navegação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular: explorando o framework
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Angular: testes automatizados com Jasmine e Karma
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Apache Camel: o framework de integração entre sistemas
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Aprender a aprender: técnicas para seu autodesenvolvimento
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Associate Cloud Engineer parte 1: a certificação do Google Cloud
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Associate Cloud Engineer parte 2: a certificação do Google Cloud
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Associate Cloud Engineer parte 3: a certificação do Google Cloud
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Associate Cloud Engineer parte 4: A certificação do Google Cloud
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+AWS Certification: Solution Architect Associate Parte 1
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+AWS Certification: Solutions Architect Associate Parte 2
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+AWS Certification: Solutions Architect Associate Parte 3
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+AWS Certification: Solutions Architect Associate Parte 4
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+BDD e Java: Behavior Driven Development com Cucumber
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Comunicação: como se expressar bem e ser compreendido
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Currículo: como chamar a atenção dos entrevistadores
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Dart: Dominando a Orientação a Objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Dart: primeiros passos com a linguagem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Deploy no Amazon EC2: alta disponibilidade e escalabilidade de uma aplicação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Design Patterns em Java I: boas práticas de programação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Design Patterns em Java II: avançando nas boas práticas de programação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Design Patterns Java I: Boas práticas de programação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Design Patterns Java II: Boas praticas de programação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Docker: Criando containers sem dor de cabeça
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Eclipse: Produtividade Extrema na IDE com Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Eficácia parte 1: hábitos para sua proatividade
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Eficácia parte 2: hábitos para sua proatividade
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+EJB: O poder da Java EE
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Email marketing: design do seu email
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Estresse parte 1: buscando qualidade de vida
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Estresse parte 2: equilibre seu estilo de vida
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Feedback: a arte de orientar e ser orientado com sentido
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Flask parte 1: Crie uma webapp com Python 3
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Flask parte 2: Avançando no desenvolvimento web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Flutter com Web API: integrando sua app mobile
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Flutter: criando um app
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Flutter: entendendo comunicação HTTP e utilizando Web API
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Foco: trazendo mais resultados para o dia a dia
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Fundamentos de SEO: Primeiros passos para ranquear seu site na Busca Orgânica
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Gestalt: aplicando princípios em um layout Photoshop
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Git e Github: controle e compartilhe seu código
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Go: a linguagem do Google
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Go: crie uma aplicação web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Go: Orientação a Objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Google Cloud Compute Engine: escalabilidade e alta disponibilidade
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Google Cloud Endpoints: integrando a API
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Google Cloud Functions: código Serverless
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Google Cloud Serverless: crie aplicações robustas e escaláveis
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Google Cloud Storage: armazenamento de objetos na Google Cloud
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Google Cloud: deploy de uma aplicação em Spring MVC
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Hábitos: da produtividade às metas pessoais
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+HTML5 e CSS3 I: Suas primeiras páginas da Web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+HTML5 e CSS3 II: Turbinando as suas páginas
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+HTTP: Entendendo a web por baixo dos panos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Identidade Visual parte 1: Do Briefing a um logo em vetor no Illustrator
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Identidade Visual parte 2: Criando um sistema visual e aplicações a partir de um logo
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Identidade Visual parte 3: Elaborando o Conteúdo de um Manual de Marca no Illustrator
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Inteligência comercial: aumente a competitividade do seu e-commerce
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+IntelliJ IDEA: aumente a sua produtividade em projetos Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Jasmine: Testes automatizados em JavaScript
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Jasper Reports: Relatórios com Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java 8: conheça as novidades dessa versão
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Brasil: Formate datas, cpf e números nacionais
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Collections: Dominando Listas, Sets e Mapas
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Debug: técnicas para entender e melhorar o seu código
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e Clean Architecture: descomplicando arquitetura de software
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e Domain Driven Design: apresentando os conceitos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e java.io: Streams, Reader e Writers
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e java.lang: programe com a classe Object e String
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e java.util: Coleções, Wrappers e Lambda expressions
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e JDBC: Trabalhando com um banco de dados
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e JPA: Otimizações com JPA2 e Hibernate
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e JPA: persista seus objetos com a JPA2 e Hibernate
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e Testes: Test Driven Development com Junit
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java e XML: integração, parsing e validação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Exceções: aprenda a criar, lançar e controlar exceções
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java JRE e JDK: compile e execute o seu programa
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java OO: entendendo a Orientação a Objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Polimorfismo: entenda herança e interfaces
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Servlet: autenticação, autorização e o padrão MVC
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java Servlet: programação web Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java: Laboratório com Testes, JSF e Design Patterns I
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Java: Laboratório com Testes, JSF e Design Patterns II
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Javascript e HTML: desenvolva um jogo e pratique lógica de programação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Javascript e HTML: pratique lógica com desenhos, animações e um jogo
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript I: algoritmos de ordenação
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript: aprofundando em MVC, padrão Proxy e Factory
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript: Arrays
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript: conhecendo o Browser e padrões de projeto
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript: objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript: programando na linguagem da web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+JavaScript: tipos, variáveis e funções
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+jQuery: domine a biblioteca mais popular do mercado parte 1
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Kafka: Fast delegate, evolução e cluster de brokers
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Kafka: Produtores, Consumidores e streams
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Kubernetes: Deployments, Volumes e Escalabilidade
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Kubernetes: Pods, Services e ConfigMaps
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Machine Learning: classificação com SKLearn
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Machine Learning: Introdução a algoritmos não supervisionados
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Maven: Build do zero a web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Microsserviços na prática: IaC com CDK e deploy na AWS
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Microsserviços na prática: implementando com Java e Spring
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Microsserviços: padrões de projeto
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Mocks em Java: conhecendo o Mockito
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Mocks em Java: Testes de comportamentos automatizados
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+MongoDB: modelagem de dados
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+MongoDB: uma alternativa aos bancos relacionais tradicionais
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Node.js e HTTP: desenvolvendo uma API seguindo o estilo REST
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Node.js Parte 1: Inovando com JavaScript no backend
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Node.js Parte 2: MVC, autenticação e autorização
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+NodeJS: criando sua biblioteca
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Oratória parte 1: compartilhe ideias e histórias
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Oratória parte 2: apresentações em público
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Orientação a Objetos: Melhores técnicas com Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Persistência com Flutter: crie um app com armazenamento interno
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+PHP e MySQL I: Fundamentos para criar um sistema na Web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+PL/SQL: Domine a linguagem do banco de dados Oracle
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Plataforma e-commerce: decisões no começo de sua loja virtual
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Pontos fortes parte 2: habilidades e competências
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Python: avançando na linguagem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Python: avançando na orientação a objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Python: começando com a linguagem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Python: entendendo a Orientação a Objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Refatoração em Java: boas práticas no seu código
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Refatorando na prática
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Rest Assured: Testes automatizado de webservice
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Rest com NodeJS: API com Express e MySQL
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Scrum parte 1: gerencie o seu projeto de forma ágil
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Scrum: agilidade em seu projeto
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Selenium: Sua webapp testada de ponta a ponta em java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Selenium: testes automatizados de aceitação em Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SEO I: Rankeie bem no Google
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SEO II: Mais técnicas para rankeamento
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SEO Wordpress: otimize o ranqueamento do seu site
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SEO: Entenda como o Google funciona
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SEO: métricas e relatórios
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SEO: otimização de sites
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SOLID com Java: Orientação a Objetos com Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+SOLID com Java: princípios da programação orientada a objetos
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Spring Boot API REST: construa uma API
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Spring Boot API Rest: Segurança da API, Cache e Monitoramento
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Spring Boot: Agilidade no desenvolvimento java com Spring
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Spring MVC I: Criando aplicações web
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Spring MVC II: Integração, cache, segurança e templates
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Swagger parte 1: Crie uma documentação APIs REST
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Swagger parte 2: customizando uma API gerada
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Swagger: documentando suas APIs
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+TDD e Java: testes automatizados com JUnit
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Terraform: automatize a infraestrutura na nuvem
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Teste de Integração: Testes SQL e DAOs automatizados em Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Testes automatizados: TDD com Python
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Testes de Integração: testes de SQL e DAOs automatizados em Java
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Testes de unidade e Widget com Mocks: boas práticas no Flutter
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Threads em Java 1: programação paralela
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+TypeScript parte 1: Evoluindo seu Javascript
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+TypeScript parte 2: Mais técnicas e boas práticas
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+UML: modelagem de soluções
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Vue.js parte 1: construindo Single Page Applications
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Vue.js parte 2: construindo Single Page Applications
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Web Design Responsivo: Páginas que se adaptam do mobile ao desk
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+Webpack: Manipulando módulos na sua webapp
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+WordPress I: hospedagem, administração e widgets
+CERTIFICADO
+ADICIONAR AO PERFIL
+
+WordPress II: páginas, temas e 

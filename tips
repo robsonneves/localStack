@@ -12,6 +12,10 @@ aws --endpoint="http://localhost:4566" sns subscribe --topic-arn=arn:aws:sns:us-
 recived message
 aws --endpoint="http://localhost:4566" sqs receive-message --queue-url http://localhost:4566/000000000000/SQS_TESTE
 
+
+aws --endpoint="http://localhost:4566" sqs create-queue --queue-name=sqs_response --region us-east-1
+
+
 aws configure list
 
 win
